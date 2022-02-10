@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\Zapis_parametra.dll"</Assembly>		
+		<AddInId>882340FC-69A7-4C9E-8325-A1ADAFBCB1FE</AddInId>		
+		<FullClassName>Zapis_parametra.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Запись параметра</Text>
+	</AddIn>
+</RevitAddIns>

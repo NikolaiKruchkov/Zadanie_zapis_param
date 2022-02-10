@@ -1,0 +1,5 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.3\Zapis_parametra\Zapis_parametra\bin\Debug\Zapis_parametra.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.3\Zapis_parametra\Zapis_parametra\bin\Debug\Zapis_parametra.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.3\Zapis_parametra\Zapis_parametra\obj\Debug\Zapis_parametra.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.3\Zapis_parametra\Zapis_parametra\obj\Debug\Zapis_parametra.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.3\Zapis_parametra\Zapis_parametra\obj\Debug\Zapis_parametra.pdb
